@@ -1,0 +1,27 @@
+.product {
+  position: relative;
+  line-height: 24px;
+}
+.product-parent {
+  position: absolute;
+  top: 24px;
+  left: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-265xl);
+}
+.cart-main-section {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--primary);
+  box-shadow: var(--categogy-5);
+  width: 1170px;
+  height: 72px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

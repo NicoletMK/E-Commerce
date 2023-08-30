@@ -1,0 +1,129 @@
+.dlbeatsnoop-1-icon1 {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  width: 919px;
+  height: 706px;
+  object-fit: cover;
+}
+.side-image2 {
+  position: relative;
+  border-radius: 0 var(--br-9xs) var(--br-9xs) 0;
+  background-color: var(--color-powderblue);
+  width: 805px;
+  height: 781px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.create-an-account {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 30px;
+  font-weight: 500;
+}
+.enter-your-details1 {
+  position: relative;
+  font-size: var(--title-16px-medium-size);
+  line-height: 24px;
+  font-family: var(--title-16px-medium);
+}
+.create-an-account-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.name {
+  position: relative;
+  line-height: 24px;
+  opacity: 0.4;
+}
+.frame-parent29,
+.name-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent29 {
+  gap: var(--gap-21xl);
+}
+.already-have-account,
+.log-in1 {
+  position: relative;
+  line-height: 24px;
+  opacity: 0.7;
+}
+.log-in1 {
+  font-weight: 500;
+  cursor: pointer;
+}
+.underline-icon3 {
+  position: relative;
+  width: 47px;
+  height: 1px;
+  opacity: 0.5;
+}
+.log-in-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.already-have-account-parent,
+.google-sign-up-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.google-sign-up-parent {
+  flex-direction: column;
+  gap: var(--gap-13xl);
+}
+.button-parent {
+  align-items: flex-start;
+  gap: var(--gap-base);
+}
+.button-parent,
+.frame-parent27,
+.frame-parent28,
+.side-image-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent28 {
+  align-items: center;
+  gap: var(--gap-21xl);
+  font-size: var(--title-16px-medium-size);
+  font-family: var(--title-16px-medium);
+}
+.frame-parent27,
+.side-image-group {
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+}
+.side-image-group {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-110xl);
+}
+.sign-up3 {
+  position: relative;
+  background-color: var(--primary);
+  width: 100%;
+  height: 1561px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-36px-medium-size);
+  color: var(--text2);
+  font-family: var(--heading-24px-bold);
+}

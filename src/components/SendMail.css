@@ -1,0 +1,29 @@
+.enter-your-email {
+  position: relative;
+  line-height: 24px;
+  opacity: 0.4;
+}
+.icon-send {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.send-mail {
+  position: relative;
+  border-radius: var(--br-9xs);
+  border: 1.5px solid var(--text2);
+  box-sizing: border-box;
+  width: 217px;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) 0 var(--padding-xs) var(--padding-base);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

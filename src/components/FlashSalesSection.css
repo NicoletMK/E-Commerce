@@ -1,0 +1,230 @@
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--button2);
+}
+.rectangle-wrapper {
+  position: relative;
+  width: 20px;
+  height: 40px;
+}
+.todays {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.instance-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.flash-sales {
+  position: relative;
+  font-size: var(--heading-36px-medium-size);
+  letter-spacing: 0.04em;
+  line-height: 48px;
+  font-weight: 600;
+  font-family: var(--heading-24px-bold);
+  color: var(--text2);
+}
+.frame-parent55 {
+  height: 103px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.b4,
+.days2 {
+  position: relative;
+  display: inline-block;
+}
+.days2 {
+  line-height: 18px;
+  font-weight: 500;
+  width: 31px;
+}
+.b4 {
+  font-size: var(--heading-32px-bold-size);
+  letter-spacing: 0.04em;
+  line-height: 30px;
+  font-family: var(--heading-24px-bold);
+  width: 46px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.days-group {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 151px);
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.b5,
+.hours2 {
+  position: relative;
+}
+.hours2 {
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 35px;
+}
+.b5 {
+  font-size: var(--heading-32px-bold-size);
+  letter-spacing: 0.04em;
+  line-height: 30px;
+  font-family: var(--heading-24px-bold);
+}
+.hours-group {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 67px);
+  width: 42px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.b6,
+.minutes2 {
+  position: relative;
+  display: inline-block;
+}
+.minutes2 {
+  line-height: 18px;
+  font-weight: 500;
+  width: 49px;
+}
+.b6 {
+  font-size: var(--heading-32px-bold-size);
+  letter-spacing: 0.04em;
+  line-height: 30px;
+  font-family: var(--heading-24px-bold);
+  width: 39px;
+  height: 28px;
+  flex-shrink: 0;
+}
+.minutes-group {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% + 13px);
+  width: 49px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.seconds2 {
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+  display: inline-block;
+  width: 52px;
+}
+.seconds-group {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% + 100px);
+  width: 51px;
+  height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.semiclone-child3 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--hover-button);
+  width: 4px;
+  height: 4px;
+}
+.semiclone3,
+.semiclone4,
+.semiclone5 {
+  position: absolute;
+  top: 26px;
+  left: 63px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.semiclone4,
+.semiclone5 {
+  left: 143px;
+}
+.semiclone5 {
+  left: 230px;
+}
+.group-div {
+  position: relative;
+  width: 302px;
+  height: 50px;
+  font-size: var(--title-12px-regular-size);
+  color: var(--text2);
+}
+.frame-parent54 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-68xl);
+}
+.fill-with-left-arrow1 {
+  position: relative;
+  width: 46px;
+  height: 46px;
+}
+.fill-with-left-arrow-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.cart-with-flat-discount-group,
+.frame-parent52,
+.frame-parent53 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-451xl);
+}
+.cart-with-flat-discount-group,
+.frame-parent52 {
+  align-items: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame-parent52 {
+  position: absolute;
+  top: 666px;
+  left: 135px;
+  flex-direction: column;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--button2);
+  font-family: var(--title-16px-medium);
+}

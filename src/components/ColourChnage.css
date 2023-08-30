@@ -1,0 +1,18 @@
+.colour-chnage-child,
+.colour-chnage-item {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.colour-chnage-item {
+  border-radius: 50%;
+  background-color: var(--hover-button);
+}
+.colour-chnage {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}

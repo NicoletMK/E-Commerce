@@ -1,0 +1,45 @@
+.asus-fhd-gaming1,
+.div65 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.div65 {
+  text-decoration: line-through;
+  color: var(--text2);
+  opacity: 0.5;
+}
+.parent13 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  color: var(--button2);
+}
+.div66 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  width: 32px;
+  height: 20px;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+.asus-fhd-gaming-laptop-group,
+.five-star-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--title-14px-regular-size);
+}
+.asus-fhd-gaming-laptop-group {
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

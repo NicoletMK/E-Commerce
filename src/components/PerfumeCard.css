@@ -1,0 +1,46 @@
+.perfume {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.gucci-intense-oud {
+  position: relative;
+  font-size: var(--title-14px-regular-size);
+  line-height: 21px;
+  font-family: var(--title-16px-medium);
+  display: inline-block;
+  width: 191px;
+}
+.perfume-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.shop-now4 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-parent75,
+.shop-now-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: var(--title-16px-medium-size);
+  color: var(--primary);
+  font-family: var(--title-16px-medium);
+}
+.frame-parent75 {
+  position: absolute;
+  top: 4872px;
+  left: 1059px;
+  gap: var(--gap-5xs);
+  text-align: left;
+  font-size: var(--heading-24px-bold-size);
+  color: var(--text);
+  font-family: var(--heading-24px-bold);
+}

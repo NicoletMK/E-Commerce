@@ -1,0 +1,116 @@
+.cart-item {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-9xs) var(--br-9xs);
+  background-color: var(--text2);
+  height: 41px;
+}
+.fill-eye-icon1 {
+  position: relative;
+  width: 34px;
+  height: 34px;
+}
+.fill-eye-container {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cart1-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.add-to-cart2 {
+  position: relative;
+  line-height: 18px;
+}
+.cart1-group {
+  position: absolute;
+  top: 218px;
+  left: 85px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.g92-2-500x500-1-icon1 {
+  position: absolute;
+  top: calc(50% - 76px);
+  left: calc(50% - 86px);
+  width: 172px;
+  height: 152px;
+  object-fit: cover;
+}
+.g92-2-500x500-1-wrapper {
+  position: absolute;
+  top: calc(50% - 103px);
+  left: calc(50% - 95px);
+  width: 190px;
+  height: 180px;
+  overflow: hidden;
+}
+.cart1 {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  width: 270px;
+  height: 250px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.havit-hv-g92-gamepad {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--button2);
+}
+.div9 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  width: 32px;
+  height: 20px;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+.five-star-group,
+.havit-hv-g92-gamepad-parent,
+.productjust-for-your-cart-gam {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--title-14px-regular-size);
+}
+.havit-hv-g92-gamepad-parent,
+.productjust-for-your-cart-gam {
+  flex-direction: column;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+}
+.productjust-for-your-cart-gam {
+  position: relative;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--title-12px-regular-size);
+  color: var(--primary);
+  font-family: var(--title-16px-medium);
+}

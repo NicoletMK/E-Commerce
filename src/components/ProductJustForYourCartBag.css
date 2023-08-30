@@ -1,0 +1,82 @@
+.rectangle-div {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-9xs) var(--br-9xs);
+  background-color: var(--text2);
+  height: 41px;
+}
+.fill-eye-icon3 {
+  position: relative;
+  width: 34px;
+  height: 34px;
+}
+.frame-div {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cart1-icon3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.add-to-cart4 {
+  position: relative;
+  line-height: 18px;
+}
+.cart1-parent1 {
+  position: absolute;
+  top: 218px;
+  left: 85px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ideapad-gaming-3i-01-500x500-1-icon {
+  position: absolute;
+  top: 7px;
+  left: 16px;
+  width: 158px;
+  height: 166px;
+  object-fit: cover;
+}
+.ideapad-gaming-3i-01-500x500-1-wrapper {
+  position: absolute;
+  top: calc(50% - 103px);
+  left: calc(50% - 95px);
+  width: 190px;
+  height: 180px;
+  overflow: hidden;
+}
+.cart3 {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  width: 270px;
+  height: 250px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.productjust-for-your-cart-bag {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--title-12px-regular-size);
+  color: var(--primary);
+  font-family: var(--title-16px-medium);
+}

@@ -1,0 +1,95 @@
+.lcd-monitor-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-191xl);
+}
+.frame-parent40,
+.gamepad-cart-small-parent,
+.lcd-monitor-group,
+.monitor-cart-small-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.frame-parent40,
+.lcd-monitor-group,
+.monitor-cart-small-parent {
+  gap: var(--gap-185xl);
+}
+.frame-parent40,
+.monitor-cart-small-parent {
+  gap: var(--gap-xl);
+}
+.frame-parent40 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-13xl);
+}
+.frame-parent41,
+.shipping-group,
+.subtotal-group,
+.total-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-288xl);
+}
+.frame-parent41,
+.shipping-group,
+.total-group {
+  gap: var(--gap-295xl);
+}
+.frame-parent41,
+.total-group {
+  gap: var(--gap-316xl);
+}
+.frame-parent41 {
+  flex-direction: column;
+  gap: var(--gap-base);
+}
+.radio-button-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.bank {
+  position: relative;
+  line-height: 24px;
+}
+.bkash-parent,
+.frame-parent39,
+.frame-parent45,
+.radio-button-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.bkash-parent,
+.frame-parent39,
+.frame-parent45 {
+  gap: var(--gap-5xs);
+}
+.frame-parent39,
+.frame-parent45 {
+  align-items: center;
+  gap: var(--gap-136xl);
+}
+.frame-parent39 {
+  position: absolute;
+  top: 433px;
+  left: 778px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

@@ -1,0 +1,26 @@
+.wishlist-4 {
+  position: relative;
+  line-height: 26px;
+}
+.cart-parent,
+.frame-parent47,
+.wishlist-4-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-816xl);
+}
+.cart-parent,
+.frame-parent47 {
+  align-items: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame-parent47 {
+  flex-direction: column;
+  gap: var(--gap-41xl);
+  text-align: center;
+  font-size: var(--title-20px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

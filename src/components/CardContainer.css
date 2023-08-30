@@ -1,0 +1,63 @@
+.image-46-icon {
+  position: absolute;
+  top: 39px;
+  left: 67px;
+  width: 236px;
+  height: 391px;
+  object-fit: cover;
+}
+.image-46-wrapper {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  width: 370px;
+  height: 430px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.tom-cruise {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 30px;
+  font-weight: 500;
+}
+.founder-chairman {
+  position: relative;
+  font-size: var(--title-16px-medium-size);
+  line-height: 24px;
+  font-family: var(--title-16px-medium);
+}
+.tom-cruise-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.icon-twitter3 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent34,
+.frame-parent35,
+.icon-twitter-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent34,
+.frame-parent35 {
+  flex-direction: column;
+}
+.frame-parent34 {
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--heading-32px-bold-size);
+  color: var(--text2);
+  font-family: var(--heading-24px-bold);
+}

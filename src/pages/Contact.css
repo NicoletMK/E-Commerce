@@ -1,0 +1,45 @@
+.frame-parent14,
+.placebox-info-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent14 {
+  position: absolute;
+  top: 40px;
+  left: 31px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-13xl);
+}
+.contact-inner {
+  position: absolute;
+  top: 323px;
+  left: 505px;
+  border-radius: var(--br-9xs);
+  box-shadow: var(--categogy-5);
+  width: 800px;
+  height: 457px;
+}
+.contact-child,
+.contact-inner,
+.contact4 {
+  background-color: var(--primary);
+  overflow: hidden;
+}
+.contact-child {
+  position: absolute;
+  top: 323px;
+  left: 135px;
+  border-radius: var(--br-9xs);
+  box-shadow: var(--categogy-5);
+  width: 340px;
+  height: 457px;
+}
+.contact4 {
+  position: relative;
+  width: 100%;
+  height: 1360px;
+}

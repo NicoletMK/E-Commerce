@@ -1,0 +1,32 @@
+.icon-google {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sign-up-with {
+  position: relative;
+  line-height: 24px;
+}
+.google-sign-up,
+.icon-google-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.icon-google-parent {
+  flex-direction: row;
+  gap: var(--gap-base);
+}
+.google-sign-up {
+  position: relative;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-gray-500);
+  flex-direction: column;
+  padding: var(--padding-base) var(--padding-67xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}

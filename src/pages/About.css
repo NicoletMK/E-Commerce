@@ -1,0 +1,185 @@
+.our-story {
+  position: relative;
+  letter-spacing: 0.06em;
+  line-height: 64px;
+  font-weight: 600;
+}
+.exclusive-has-more,
+.launced-in-2015 {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  width: 525px;
+}
+.exclusive-has-more {
+  width: 505px;
+}
+.launced-in-2015-exclusive-is-parent,
+.our-story-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.launced-in-2015-exclusive-is-parent {
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  font-family: var(--title-16px-medium);
+}
+.our-story-parent {
+  position: absolute;
+  top: 422px;
+  left: 135px;
+  gap: var(--gap-21xl);
+}
+.portrait-two-african-females-h-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 837px;
+  height: 609px;
+  object-fit: cover;
+}
+.side-image {
+  position: absolute;
+  top: 285px;
+  left: 735px;
+  border-radius: var(--br-9xs) 0 0 var(--br-9xs);
+  background-color: #eb7ea8;
+  width: 705px;
+  height: 609px;
+  overflow: hidden;
+}
+.instance-container,
+.instance-wrapper {
+  position: relative;
+  border-radius: var(--br-9xs);
+  width: 270px;
+  height: 230px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.instance-wrapper {
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.instance-container {
+  background-color: var(--button2);
+  box-shadow: var(--categogy-20);
+}
+.frame-parent15 {
+  position: absolute;
+  top: 1034px;
+  left: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.image-51-icon {
+  position: absolute;
+  top: 33px;
+  left: 38px;
+  width: 294px;
+  height: 397px;
+  object-fit: cover;
+}
+.image-51-wrapper {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  width: 370px;
+  height: 430px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.emma-watson {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 30px;
+  font-weight: 500;
+}
+.managing-director {
+  position: relative;
+  font-size: var(--title-16px-medium-size);
+  line-height: 24px;
+  font-family: var(--title-16px-medium);
+}
+.emma-watson-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.icon-twitter2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent16,
+.frame-parent17,
+.frame-parent18,
+.icon-twitter-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent16,
+.frame-parent17,
+.frame-parent18 {
+  flex-direction: column;
+}
+.frame-parent16,
+.frame-parent17 {
+  gap: var(--gap-13xl);
+}
+.frame-parent16 {
+  position: absolute;
+  top: 1404px;
+  left: 135px;
+  flex-direction: row;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--heading-32px-bold-size);
+}
+.frame-child3 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--text2);
+  width: 12px;
+  height: 12px;
+  opacity: 0.3;
+}
+.group-icon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.ellipse-container {
+  position: absolute;
+  top: 2008px;
+  left: 664px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.about3 {
+  position: relative;
+  background-color: var(--primary);
+  width: 100%;
+  height: 2905px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--heading-54px-semibold-size);
+  color: var(--text2);
+  font-family: var(--heading-24px-bold);
+}

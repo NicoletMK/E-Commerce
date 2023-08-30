@@ -1,0 +1,19 @@
+.image-32-icon {
+  position: absolute;
+  height: 60%;
+  width: 90%;
+  top: 20%;
+  right: 5%;
+  bottom: 20%;
+  left: 5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bkash {
+  position: relative;
+  width: 42px;
+  height: 28px;
+  overflow: hidden;
+}

@@ -1,0 +1,245 @@
+.instance-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--button2);
+}
+.rectangle-wrapper2 {
+  position: relative;
+  width: 20px;
+  height: 40px;
+}
+.featured {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+}
+.instance-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.new-arrival {
+  position: relative;
+  font-size: var(--heading-36px-medium-size);
+  letter-spacing: 0.04em;
+  line-height: 48px;
+  font-weight: 600;
+  font-family: var(--heading-24px-bold);
+  color: var(--text2);
+}
+.frame-parent68 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.ps5-slim-goedkope-playstation-icon {
+  position: absolute;
+  top: 89px;
+  left: 29px;
+  width: 511px;
+  height: 511px;
+  object-fit: cover;
+}
+.black-and-white {
+  position: relative;
+  font-size: var(--title-14px-regular-size);
+  line-height: 21px;
+  font-family: var(--title-16px-medium);
+  display: inline-block;
+  width: 242px;
+}
+.playstation-5-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.shop-now1 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-parent70,
+.shop-now-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shop-now-group {
+  font-size: var(--title-16px-medium-size);
+  color: var(--primary);
+  font-family: var(--title-16px-medium);
+}
+.frame-parent70 {
+  position: absolute;
+  top: 446px;
+  left: 32px;
+  gap: var(--gap-base);
+}
+.ps5-slim-goedkope-playstation-parent {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--text2);
+  width: 570px;
+  height: 600px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.attractive-woman-wearing-hat-p-icon {
+  position: absolute;
+  top: 0;
+  left: 138px;
+  width: 432px;
+  height: 284px;
+  object-fit: cover;
+}
+.womens-collections {
+  position: relative;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  font-weight: 600;
+}
+.featured-woman-collections {
+  position: relative;
+  font-size: var(--title-14px-regular-size);
+  line-height: 21px;
+  font-family: var(--title-16px-medium);
+  display: inline-block;
+  width: 255px;
+}
+.frame-parent72 {
+  position: absolute;
+  top: 138px;
+  left: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.attractive-woman-wearing-hat-p-parent {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-100);
+  width: 570px;
+  height: 284px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ellipse-icon {
+  position: absolute;
+  top: calc(50% - 142px);
+  left: calc(50% - 135px);
+  width: 270px;
+  height: 284px;
+}
+.amazon-echo-png-clipart-transp-icon {
+  position: absolute;
+  top: calc(50% - 111px);
+  left: calc(50% - 95px);
+  width: 190px;
+  height: 221px;
+  object-fit: cover;
+}
+.amazon-echo-png-clipart-transp-wrapper {
+  position: absolute;
+  top: 31px;
+  left: 30px;
+  width: 210px;
+  height: 222px;
+  overflow: hidden;
+}
+.amazon-wireless-speakers {
+  position: relative;
+  font-size: var(--title-14px-regular-size);
+  line-height: 21px;
+  font-family: var(--title-16px-medium);
+  display: inline-block;
+  width: 191px;
+}
+.frame-parent74,
+.speakers-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent74 {
+  position: absolute;
+  top: 175px;
+  left: 24px;
+}
+.vector-parent {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--text2);
+  width: 270px;
+  height: 284px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.e82cd70aa6522dd785109a455904c-icon {
+  position: absolute;
+  top: calc(50% - 103px);
+  left: calc(50% - 101px);
+  width: 201px;
+  height: 203px;
+  object-fit: cover;
+}
+.e82cd70aa6522dd785109a455904c-wrapper {
+  position: absolute;
+  top: calc(50% - 112px);
+  left: calc(50% - 105px);
+  width: 210px;
+  height: 222px;
+  overflow: hidden;
+}
+.frame-parent73 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-11xl);
+}
+.frame-parent67,
+.frame-parent69,
+.frame-parent71 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.frame-parent67,
+.frame-parent69 {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-11xl);
+  font-size: var(--heading-24px-bold-size);
+  color: var(--text);
+  font-family: var(--heading-24px-bold);
+}
+.frame-parent67 {
+  position: absolute;
+  top: 4253px;
+  left: 135px;
+  flex-direction: column;
+  gap: var(--gap-41xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--button2);
+  font-family: var(--title-16px-medium);
+}

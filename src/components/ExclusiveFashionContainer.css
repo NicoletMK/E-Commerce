@@ -1,0 +1,35 @@
+.womans-fashion {
+  position: relative;
+  line-height: 24px;
+}
+.dropdown-icon1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent50,
+.mens-fashion-parent,
+.womans-fashion-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-32xl);
+}
+.frame-parent50,
+.mens-fashion-parent {
+  gap: var(--gap-62xl);
+}
+.frame-parent50 {
+  position: absolute;
+  top: 182px;
+  left: 135px;
+  flex-direction: column;
+  gap: var(--gap-base);
+  text-align: center;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

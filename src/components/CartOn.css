@@ -1,0 +1,51 @@
+.cart1-icon8,
+.group-item {
+  position: absolute;
+  bottom: 0;
+}
+.cart1-icon8 {
+  height: 75%;
+  width: 75%;
+  top: 25%;
+  right: 21.88%;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-item {
+  height: 94.12%;
+  width: 100%;
+  top: 5.88%;
+  right: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--button2);
+}
+.div18 {
+  position: absolute;
+  height: 100%;
+  width: 43.75%;
+  top: 0;
+  left: 31.25%;
+  line-height: 18px;
+  display: inline-block;
+}
+.ellipse-group {
+  position: absolute;
+  height: 53.13%;
+  width: 50%;
+  top: 3.13%;
+  right: 3.13%;
+  bottom: 43.75%;
+  left: 46.88%;
+}
+.carton {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  text-align: center;
+  font-size: var(--title-12px-regular-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}

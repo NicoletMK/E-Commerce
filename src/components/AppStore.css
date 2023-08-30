@@ -1,0 +1,16 @@
+.download-appstore-icon {
+  position: absolute;
+  top: 2.4px;
+  left: 2.4px;
+  border-radius: var(--br-9xs);
+  width: 105.2px;
+  height: 35.2px;
+  object-fit: cover;
+}
+.appstore {
+  position: relative;
+  background-color: var(--text2);
+  width: 110px;
+  height: 40px;
+  overflow: hidden;
+}

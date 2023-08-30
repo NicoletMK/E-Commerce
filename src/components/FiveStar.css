@@ -1,0 +1,13 @@
+.vector-icon19 {
+  position: relative;
+  border-radius: var(--br-11xs-4);
+  width: 20px;
+  height: 20px;
+}
+.five-star {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

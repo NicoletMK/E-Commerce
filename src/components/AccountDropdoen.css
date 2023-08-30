@@ -1,0 +1,60 @@
+.user-icon {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.manage-my-account {
+  position: relative;
+  line-height: 21px;
+}
+.user-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.icon-logout,
+.icon-reviews {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.icon-logout {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent {
+  position: absolute;
+  top: 18px;
+  left: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.account-dropdown {
+  position: absolute;
+  height: 100%;
+  width: 99.56%;
+  top: 0;
+  right: 0.44%;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  background-color: var(--color-gray-300);
+  backdrop-filter: blur(150px);
+  overflow: hidden;
+}
+.account-dropdoen {
+  position: relative;
+  width: 225px;
+  height: 208px;
+  text-align: center;
+  font-size: var(--title-14px-regular-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}

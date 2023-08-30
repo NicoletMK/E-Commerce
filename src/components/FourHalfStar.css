@@ -1,0 +1,20 @@
+.star-half-filled-icon,
+.vector-icon10 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.vector-icon10 {
+  border-radius: var(--br-11xs-4);
+}
+.star-half-filled-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.four-half-star {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

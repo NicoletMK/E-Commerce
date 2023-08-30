@@ -1,0 +1,143 @@
+.exclusive10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+  cursor: pointer;
+}
+.logo10 {
+  position: relative;
+  width: 118px;
+  height: 24px;
+}
+.home8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  cursor: pointer;
+}
+.header42 {
+  position: relative;
+  width: 48px;
+  height: 24px;
+}
+.contact11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.header43 {
+  position: relative;
+  width: 66px;
+  height: 24px;
+}
+.header-parent7,
+.logo-parent8 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-parent7 {
+  gap: var(--gap-29xl);
+  text-align: center;
+  font-size: var(--title-16px-medium-size);
+  font-family: var(--title-16px-medium);
+}
+.logo-parent8 {
+  gap: var(--gap-213xl);
+}
+.wishlist-icon7 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.cart1-icon10 {
+  position: absolute;
+  height: 75%;
+  width: 75%;
+  top: 25%;
+  right: 21.88%;
+  bottom: 0;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child1 {
+  position: absolute;
+  height: 94.12%;
+  width: 100%;
+  top: 5.88%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--button2);
+}
+.div72 {
+  position: absolute;
+  height: 100%;
+  width: 43.75%;
+  top: 0;
+  left: 31.25%;
+  line-height: 18px;
+  display: inline-block;
+}
+.ellipse-parent4 {
+  position: absolute;
+  height: 53.13%;
+  width: 50%;
+  top: 3.13%;
+  right: 3.13%;
+  bottom: 43.75%;
+  left: 46.88%;
+}
+.cart1-with-buy7,
+.user-icon10 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.cart1-with-buy7 {
+  display: none;
+}
+.user-icon10 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wishlist-parent7 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.header41,
+.search-component-set-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: center;
+  font-size: var(--title-12px-regular-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}
+.header41 {
+  position: absolute;
+  top: 86px;
+  left: 135px;
+  gap: var(--gap-191xl);
+  text-align: left;
+  font-size: var(--heading-24px-bold-size);
+  color: var(--text2);
+  font-family: var(--heading-24px-bold);
+}

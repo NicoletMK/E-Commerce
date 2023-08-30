@@ -1,0 +1,18 @@
+.div54 {
+  position: relative;
+  line-height: 18px;
+}
+.discount-percent {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--button2);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-xs);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--title-12px-regular-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}

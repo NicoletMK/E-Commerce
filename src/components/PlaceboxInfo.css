@@ -1,0 +1,16 @@
+.md {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  line-height: 24px;
+  opacity: 0.5;
+}
+.placebox-info {
+  position: relative;
+  width: 330px;
+  height: 50px;
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

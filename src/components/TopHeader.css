@@ -1,0 +1,60 @@
+.summer-sale-for {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  width: 474px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.shopnow {
+  position: relative;
+  text-decoration: underline;
+  line-height: 24px;
+  font-weight: 600;
+  text-align: center;
+}
+.summer-sale-for-all-swim-suits-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.english {
+  position: relative;
+  line-height: 21px;
+}
+.dropdown-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.english-parent,
+.frame-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xs);
+}
+.frame-group {
+  position: absolute;
+  top: 12px;
+  right: 136px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-212xl);
+}
+.top-header {
+  position: relative;
+  background-color: var(--text2);
+  width: 1440px;
+  height: 48px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--title-14px-regular-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}

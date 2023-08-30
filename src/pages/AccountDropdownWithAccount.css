@@ -1,0 +1,38 @@
+.account-dropdown-with-account-child,
+.account-dropdown-with-account-item {
+  position: absolute;
+  top: 1334.75px;
+  left: 134.75px;
+  border-top: 0.5px solid var(--text2);
+  box-sizing: border-box;
+  width: 1170.5px;
+  height: 0.5px;
+  opacity: 0.3;
+}
+.account-dropdown-with-account-item {
+  top: 1797.75px;
+}
+.account-dropdown-with-account-inner {
+  position: absolute;
+  top: 141.75px;
+  left: 367.75px;
+  border-right: 0.5px solid var(--text2);
+  box-sizing: border-box;
+  width: 0.5px;
+  height: 384.5px;
+  opacity: 0.3;
+}
+.fill-with-up-arrow2 {
+  position: absolute;
+  top: 5384px;
+  left: 1305px;
+  width: 46px;
+  height: 46px;
+}
+.account-dropdown-with-account {
+  position: relative;
+  background-color: var(--primary);
+  width: 100%;
+  height: 5902px;
+  overflow: hidden;
+}

@@ -1,0 +1,26 @@
+.account {
+  position: relative;
+  line-height: 21px;
+  opacity: 0.5;
+}
+.roadmap-child {
+  position: relative;
+  width: 6.89px;
+  height: 12.2px;
+}
+.nothing {
+  position: relative;
+  line-height: 21px;
+}
+.roadmap {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  text-align: left;
+  font-size: var(--title-14px-regular-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

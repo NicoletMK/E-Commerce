@@ -1,0 +1,19 @@
+.add-to-cart {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.buttonsmall-hoverno {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--button2);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-29xl);
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}

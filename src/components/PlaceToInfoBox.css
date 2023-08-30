@@ -1,0 +1,8 @@
+.place-to-info-box {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  width: 470px;
+  height: 50px;
+  overflow: hidden;
+}

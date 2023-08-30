@@ -1,0 +1,19 @@
+.image-31-icon {
+  position: absolute;
+  height: 90%;
+  width: 93.33%;
+  top: 5%;
+  right: 3.33%;
+  bottom: 5%;
+  left: 3.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mastercard {
+  position: relative;
+  width: 42px;
+  height: 28px;
+  overflow: hidden;
+}

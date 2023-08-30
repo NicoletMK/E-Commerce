@@ -1,0 +1,19 @@
+.image-33-icon {
+  position: absolute;
+  height: 65%;
+  width: 93.33%;
+  top: 17.5%;
+  right: 3.33%;
+  bottom: 17.5%;
+  left: 3.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nagad {
+  position: relative;
+  width: 42px;
+  height: 28px;
+  overflow: hidden;
+}

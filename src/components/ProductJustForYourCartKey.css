@@ -1,0 +1,116 @@
+.cart-child {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 0 0 var(--br-9xs) var(--br-9xs);
+  background-color: var(--text2);
+  height: 41px;
+}
+.fill-eye-icon {
+  position: relative;
+  width: 34px;
+  height: 34px;
+}
+.fill-eye-wrapper {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cart1-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.add-to-cart1 {
+  position: relative;
+  line-height: 18px;
+}
+.cart1-parent {
+  position: absolute;
+  top: 218px;
+  left: 85px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.ak-900-01-500x500-1-icon {
+  position: absolute;
+  top: calc(50% - 50px);
+  left: calc(50% - 95px);
+  width: 191px;
+  height: 101px;
+  object-fit: cover;
+}
+.ak-900-01-500x500-1-wrapper {
+  position: absolute;
+  top: calc(50% - 103px);
+  left: calc(50% - 95px);
+  width: 190px;
+  height: 180px;
+  overflow: hidden;
+}
+.cart {
+  position: relative;
+  border-radius: var(--br-9xs);
+  background-color: var(--secondary);
+  width: 270px;
+  height: 250px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.ak-900-wired-keyboard {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  color: var(--button2);
+}
+.div7 {
+  position: relative;
+  line-height: 21px;
+  font-weight: 600;
+  display: inline-block;
+  width: 32px;
+  height: 20px;
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+.ak-900-wired-keyboard-parent,
+.five-star-parent,
+.productjust-for-your-cart-key {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--title-14px-regular-size);
+}
+.ak-900-wired-keyboard-parent,
+.productjust-for-your-cart-key {
+  flex-direction: column;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+}
+.productjust-for-your-cart-key {
+  position: relative;
+  gap: var(--gap-base);
+  text-align: left;
+  font-size: var(--title-12px-regular-size);
+  color: var(--primary);
+  font-family: var(--title-16px-medium);
+}

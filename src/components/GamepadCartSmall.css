@@ -1,0 +1,19 @@
+.g92-2-500x500-1-icon {
+  position: absolute;
+  height: 78.19%;
+  width: 90.53%;
+  top: 11.11%;
+  right: 3.92%;
+  bottom: 10.7%;
+  left: 5.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.gamepad-cart-small {
+  position: relative;
+  width: 54px;
+  height: 54px;
+  overflow: hidden;
+}

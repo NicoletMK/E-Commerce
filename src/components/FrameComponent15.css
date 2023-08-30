@@ -1,0 +1,71 @@
+.icons-phone {
+  position: relative;
+  border-radius: var(--br-12xl);
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.call-to-us {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.icons-phone-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.we-are-available {
+  position: relative;
+  line-height: 21px;
+  display: inline-block;
+  width: 262px;
+}
+.frame-parent32,
+.we-are-available-247-7-days-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.we-are-available-247-7-days-parent {
+  gap: var(--gap-base);
+  font-size: var(--title-14px-regular-size);
+}
+.frame-parent32 {
+  gap: var(--gap-5xl);
+}
+.icons-mail {
+  position: relative;
+  border-radius: var(--br-24xl);
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.fill-out-our {
+  display: inline-block;
+  width: 250px;
+}
+.emails-customerexclusivecom,
+.fill-out-our {
+  position: relative;
+  line-height: 21px;
+}
+.frame-parent31 {
+  position: absolute;
+  top: 40px;
+  left: 35px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--title-16px-medium-size);
+  color: var(--text2);
+  font-family: var(--title-16px-medium);
+}

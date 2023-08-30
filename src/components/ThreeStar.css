@@ -1,0 +1,17 @@
+.vector-icon1,
+.vector-icon4 {
+  position: relative;
+  border-radius: var(--br-11xs-4);
+  width: 20px;
+  height: 20px;
+}
+.vector-icon4 {
+  opacity: 0.25;
+}
+.three-star {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}

@@ -1,0 +1,147 @@
+.exclusive9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+  line-height: 24px;
+}
+.logo9 {
+  position: relative;
+  width: 118px;
+  height: 24px;
+  cursor: pointer;
+}
+.home7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+  cursor: pointer;
+}
+.header37 {
+  position: relative;
+  width: 48px;
+  height: 24px;
+}
+.contact10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 24px;
+}
+.header38,
+.header40 {
+  position: relative;
+  width: 66px;
+  height: 24px;
+}
+.header40 {
+  width: 61px;
+}
+.header-parent6,
+.logo-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.header-parent6 {
+  gap: var(--gap-29xl);
+  text-align: center;
+  font-size: var(--title-16px-medium-size);
+  font-family: var(--title-16px-medium);
+}
+.logo-parent7 {
+  gap: var(--gap-213xl);
+}
+.wishlist-icon6 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.cart1-icon9 {
+  position: absolute;
+  height: 75%;
+  width: 75%;
+  top: 25%;
+  right: 21.88%;
+  bottom: 0;
+  left: 3.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-inner {
+  position: absolute;
+  height: 94.12%;
+  width: 100%;
+  top: 5.88%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--button2);
+}
+.div71 {
+  position: absolute;
+  height: 100%;
+  width: 43.75%;
+  top: 0;
+  left: 31.25%;
+  line-height: 18px;
+  display: inline-block;
+}
+.ellipse-parent3 {
+  position: absolute;
+  height: 53.13%;
+  width: 50%;
+  top: 3.13%;
+  right: 3.13%;
+  bottom: 43.75%;
+  left: 46.88%;
+}
+.cart1-with-buy6,
+.user-icon9 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+}
+.cart1-with-buy6 {
+  display: none;
+}
+.user-icon9 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.wishlist-parent6 {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.header36,
+.search-component-set-parent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: center;
+  font-size: var(--title-12px-regular-size);
+  color: var(--text);
+  font-family: var(--title-16px-medium);
+}
+.header36 {
+  position: absolute;
+  top: 86px;
+  left: 135px;
+  gap: var(--gap-191xl);
+  text-align: left;
+  font-size: var(--heading-24px-bold-size);
+  color: var(--text2);
+  font-family: var(--heading-24px-bold);
+}
